@@ -9,6 +9,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=equeslevi&theme=onedark&hide_border=false)<br/>
 
 
+## 👀 Some random fact:
+People don't have a strong intutive sense of how much bigger 1 billion is than 1 million. 1 million seconds is about 11 days. 1 billion seconds is about 31.5 years.
+
 ### ✍️ Some Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
